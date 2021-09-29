@@ -1,4 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components';
+//@ts-ignore
 import BGImage from './Images/Blue Landscape.jpg';
 
 export const GlobalStyle = createGlobalStyle`
