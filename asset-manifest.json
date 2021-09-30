@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-Typescript-Trainer/static/js/main.16231a51.chunk.js",
+    "main.js.map": "/React-Typescript-Trainer/static/js/main.16231a51.chunk.js.map",
+    "runtime-main.js": "/React-Typescript-Trainer/static/js/runtime-main.4dda1b20.js",
+    "runtime-main.js.map": "/React-Typescript-Trainer/static/js/runtime-main.4dda1b20.js.map",
+    "static/js/2.a2681565.chunk.js": "/React-Typescript-Trainer/static/js/2.a2681565.chunk.js",
+    "static/js/2.a2681565.chunk.js.map": "/React-Typescript-Trainer/static/js/2.a2681565.chunk.js.map",
+    "index.html": "/React-Typescript-Trainer/index.html",
+    "static/js/2.a2681565.chunk.js.LICENSE.txt": "/React-Typescript-Trainer/static/js/2.a2681565.chunk.js.LICENSE.txt",
+    "static/media/Blue.75a1d316.jpg": "/React-Typescript-Trainer/static/media/Blue.75a1d316.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dda1b20.js",
+    "static/js/2.a2681565.chunk.js",
+    "static/js/main.16231a51.chunk.js"
+  ]
+}
