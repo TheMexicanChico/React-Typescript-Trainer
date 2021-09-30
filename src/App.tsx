@@ -74,6 +74,7 @@ const App: React.FC = () => {
       <GlobalStyle />
       <Wrapper>
         <h1>REACT QUIZ</h1>
+        <h3>Special Thanks to <a href = "https://www.youtube.com/channel/UCuwL6KfTU7VoDZYZuE1WMfA">Coding With Adam</a> on YouTube</h3>
         {gameOver || userAnswers.length === TOTAL_QUESTIONS ? (
           <button className='start' onClick={startTrivia}>
             Start
@@ -96,7 +97,6 @@ const App: React.FC = () => {
             Next Question
           </button>
         ) : null}
-        <h3>Special Thanks to <a href = "https://www.youtube.com/channel/UCuwL6KfTU7VoDZYZuE1WMfA">Coding With Adam</a> on YouTube</h3>
       </Wrapper>
     </>
   );
