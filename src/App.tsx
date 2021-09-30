@@ -43,7 +43,7 @@ const App: React.FC = () => {
     if (!gameOver) {
       // User's answer
       const answer = e.currentTarget.value;
-      // Check answer against correct answer
+      // Check answer against correct answer 
       const correct = questions[number].correct_answer === answer;
       // Add score if answer is correct
       if (correct) setScore((prev) => prev + 1);
@@ -96,6 +96,7 @@ const App: React.FC = () => {
             Next Question
           </button>
         ) : null}
+        <h3>Special Thanks to <a href = "https://www.youtube.com/channel/UCuwL6KfTU7VoDZYZuE1WMfA">Coding With Adam</a> on YouTube</h3>
       </Wrapper>
     </>
   );

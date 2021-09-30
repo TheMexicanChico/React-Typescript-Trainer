@@ -53,6 +53,13 @@ export const Wrapper = styled.div`
     margin: 20px;
   }
 
+  h3 {
+    color: #000000;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
   .start, .next {
     cursor: pointer;
     background: linear-gradient(180deg, #ffffff, #ffcc91);
